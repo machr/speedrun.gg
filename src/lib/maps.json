@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Shores of Vengeance",
+        "slug": "shores-of-vengeance"
+    },
+    {
+        "id": 2,
+        "name": "Defense of Aoi Village",
+        "slug": "defense-of-aoi-village"
+    },
+    {
+        "id": 3,
+        "name": "Shadows of War",
+        "slug": "shadows-of-war"
+    },
+    {   
+        "id": 4,
+        "name": "Blood in the Snow",
+        "slug": "blood-in-the-snow"
+    },
+    {
+        "id": 5,
+        "name": "Twilight and Ashes",
+        "slug": "twilight-and-ashes"
+    },
+    {   
+        "id": 6,
+        "name": "Blood and Steel",
+        "slug": "blood-and-steel"
+    }
+]
