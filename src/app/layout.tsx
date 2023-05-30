@@ -13,7 +13,7 @@ type MapType = {
 
 export function createNavigation(maps: MapType[]) {
   return maps.map((mapObj) => (
-    <Link href={`map/${mapObj.slug}`}>{mapObj.name}</Link>
+    <Link key={mapObj.id} href={`map/${mapObj.slug}`}>{mapObj.name}</Link>
   ))
 }
 
